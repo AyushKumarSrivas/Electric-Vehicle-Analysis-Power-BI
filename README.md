@@ -85,3 +85,5 @@ Download the .pbix file from this repository.
 Open it using Microsoft Power BI Desktop.
 
 Explore interactive visuals, slicers, and KPIs to gain insights.
+
+Download the Electric_Vehicle_Population_Data.csv
