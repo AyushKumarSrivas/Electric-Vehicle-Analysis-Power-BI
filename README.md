@@ -1,6 +1,7 @@
 # Electric-Vehicle-Analysis-Power-BI
 Power BI dashboard providing actionable insights into Electric Vehicle adoption, sales growth, and market dynamics.
 📊 Electric Vehicle Analysis Dashboard
+
 🔍 Project Overview
 
 This Power BI project presents a detailed analysis of the Electric Vehicle (EV) market, focusing on growth patterns, manufacturer performance, and sales trends across various regions.
