@@ -69,7 +69,7 @@ Make data-driven decisions based on sales and performance insights
 
 Electric Vehicle Analysis.pbix – Main Power BI dashboard file
 
-Electric_Vehicle_Data.csv – Dataset used for visualization (if shareable)
+Electric_Vehicle_Data.csv – Dataset used for visualization
 
 README.md – Project documentation file
 
@@ -77,7 +77,6 @@ README.md – Project documentation file
 
 Ayush Kumar Srivas
 Aspiring Data Analyst | Skilled in Power BI, Excel, Python & ML
-📧 [Add your email or LinkedIn link here]
 
 ⭐ How to Use
 
